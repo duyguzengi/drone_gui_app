@@ -1,0 +1,12 @@
+drone_gui_app/
+├── gui/
+│   ├── main_window.py
+│   ├── __init__.py
+├── assets/
+│   └── icon.png (isteğe bağlı)
+├── maps/
+│   └── saved_map.json (runtime dosyaları buraya gider)
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── main.py

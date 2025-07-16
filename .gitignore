@@ -1,0 +1,10 @@
+echo '__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.env
+.vscode/
+.idea/
+*.log
+*.swp
+maps/*.json' > .gitignore
